@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import sys
-sys.path.append("../")
+sys.path.append("/content/deep-loglizer")
 import argparse
 from torch.utils.data import DataLoader
 
